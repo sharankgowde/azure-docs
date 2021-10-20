@@ -1,0 +1,1 @@
+Document details about the setup of Azure front door (AFD) with the AKS. This document details about only the steps for the single region. AFD still need to be tested with the multi region
